@@ -1274,7 +1274,7 @@ Autoselect
         <RTOS v="FRTOS1" />
         <Semaphore v="yes" />
       </boolgroup>
-      <Init___on_startup v="no" />
+      <Init___on_startup v="yes" />
     </Properties>
     <Methods>
       <SelectSlave v="generate code" />

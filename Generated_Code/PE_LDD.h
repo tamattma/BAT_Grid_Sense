@@ -6,7 +6,7 @@
 **     Version     : Component 01.025, Driver 01.04, CPU db: 3.00.000
 **     Repository  : Kinetis
 **     Compiler    : GNU C Compiler
-**     Date/Time   : 2018-05-12, 08:43, # CodeGen: 20
+**     Date/Time   : 2018-05-14, 11:37, # CodeGen: 24
 **     Abstract    :
 **
 **     Settings    :
@@ -81,6 +81,9 @@
 #include "BitIoLdd4.h"
 #include "AD1.h"
 #include "AdcLdd1.h"
+#include "EE241.h"
+#include "GI2C1.h"
+#include "CI2C1.h"
 
 
 /*

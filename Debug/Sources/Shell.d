@@ -41,6 +41,11 @@ Sources/Shell.o: ../Sources/Shell.c \
  C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/CLS1.h \
  C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/SEGGER_RTT.h \
  C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/SEGGER_RTT_Conf.h \
+ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/EE241.h \
+ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/GI2C1.h \
+ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/GI2C1config.h \
+ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/CI2C1.h \
+ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/FRTOS1.h \
  ../Sources/Application.h
 
 C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/CLS1.h:
@@ -126,5 +131,15 @@ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/CLS1.h:
 C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/SEGGER_RTT.h:
 
 C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/SEGGER_RTT_Conf.h:
+
+C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/EE241.h:
+
+C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/GI2C1.h:
+
+C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/GI2C1config.h:
+
+C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/CI2C1.h:
+
+C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/FRTOS1.h:
 
 ../Sources/Application.h:

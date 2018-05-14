@@ -11,6 +11,7 @@
 #include "Shell.h"
 #include "FRTOS1.h"
 #include "RTT1.h"
+#include "EE241.h"
 #include "Application.h"
 
 
@@ -123,6 +124,7 @@ static const CLS1_ParseCommandCallback CmdParserTable[] =
   CLS1_ParseCommand, /* Processor Expert Shell component, is first in list */
   SHELL_ParseCommand, /* our own module parser */
   APP_ParseCommand,
+  EE241_ParseCommand,
   NULL /* Sentinel */
 };
 

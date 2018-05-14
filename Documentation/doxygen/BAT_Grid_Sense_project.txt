@@ -28,6 +28,7 @@
 - \subpage BitIoLdd3
 - \subpage BitIoLdd4
 - \subpage AdcLdd1
+- \subpage CI2C1
 
 */
 

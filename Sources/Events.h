@@ -53,6 +53,9 @@
 #include "BitIoLdd4.h"
 #include "AD1.h"
 #include "AdcLdd1.h"
+#include "EE241.h"
+#include "GI2C1.h"
+#include "CI2C1.h"
 
 #ifdef __cplusplus
 extern "C" {

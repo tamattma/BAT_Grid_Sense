@@ -62,10 +62,13 @@
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\BitIoLdd2.c</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\BitIoLdd3.c</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\BitIoLdd4.c</PathName>
+      <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\CI2C1.c</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\CLS1.c</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\CS1.c</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\Cpu.c</PathName>
+      <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\EE241.c</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\FRTOS1.c</PathName>
+      <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\GI2C1.c</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\MCUC1.c</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\PE_LDD.c</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\RTT1.c</PathName>
@@ -110,15 +113,19 @@
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\BitIoLdd2.h</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\BitIoLdd3.h</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\BitIoLdd4.h</PathName>
+      <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\CI2C1.h</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\CLS1.h</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\CLS1config.h</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\CS1.h</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\CS1config.h</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\Cpu.h</PathName>
+      <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\EE241.h</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\FRTOS1.h</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\FRTOS1config.h</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\FreeRTOS.h</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\FreeRTOSConfig.h</PathName>
+      <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\GI2C1.h</PathName>
+      <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\GI2C1config.h</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\IO_Map.h</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\MCUC1.h</PathName>
       <PathName>C:\Users\JumpStart\workspace.kds\BAT_Grid_Sense\Generated_Code\MCUC1config.h</PathName>

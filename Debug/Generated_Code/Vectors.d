@@ -28,6 +28,8 @@ Generated_Code/Vectors.o: ../Generated_Code/Vectors.c \
  ../Generated_Code/Bit4.h ../Generated_Code/BitIoLdd4.h \
  ../Generated_Code/AD1.h ../Generated_Code/AdcLdd1.h \
  C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Static_Code/PDD/ADC_PDD.h \
+ ../Generated_Code/EE241.h ../Generated_Code/GI2C1.h \
+ ../Generated_Code/GI2C1config.h ../Generated_Code/CI2C1.h \
  C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Sources/Events.h \
  C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/PE_Types.h \
  C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/PE_Error.h \
@@ -52,7 +54,10 @@ Generated_Code/Vectors.o: ../Generated_Code/Vectors.c \
  C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/Bit4.h \
  C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/BitIoLdd4.h \
  C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/AD1.h \
- C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/AdcLdd1.h
+ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/AdcLdd1.h \
+ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/EE241.h \
+ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/GI2C1.h \
+ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/CI2C1.h
 
 ../Generated_Code/Cpu.h:
 
@@ -158,6 +163,14 @@ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Static_Code/PDD/PDD_Types.h:
 
 C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Static_Code/PDD/ADC_PDD.h:
 
+../Generated_Code/EE241.h:
+
+../Generated_Code/GI2C1.h:
+
+../Generated_Code/GI2C1config.h:
+
+../Generated_Code/CI2C1.h:
+
 C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Sources/Events.h:
 
 C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/PE_Types.h:
@@ -207,3 +220,9 @@ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/BitIoLdd4.h:
 C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/AD1.h:
 
 C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/AdcLdd1.h:
+
+C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/EE241.h:
+
+C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/GI2C1.h:
+
+C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/CI2C1.h:

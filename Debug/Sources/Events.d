@@ -69,7 +69,14 @@ Sources/Events.o: ../Sources/Events.c \
  C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/AD1.h \
  C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/AdcLdd1.h \
  C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Static_Code/PDD/ADC_PDD.h \
- C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/AdcLdd1.h
+ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/AdcLdd1.h \
+ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/EE241.h \
+ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/GI2C1.h \
+ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/GI2C1config.h \
+ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/CI2C1.h \
+ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/FRTOS1.h \
+ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/GI2C1.h \
+ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/CI2C1.h
 
 C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/Cpu.h:
 
@@ -212,3 +219,17 @@ C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/AdcLdd1.h:
 C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Static_Code/PDD/ADC_PDD.h:
 
 C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/AdcLdd1.h:
+
+C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/EE241.h:
+
+C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/GI2C1.h:
+
+C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/GI2C1config.h:
+
+C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/CI2C1.h:
+
+C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/FRTOS1.h:
+
+C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/GI2C1.h:
+
+C:/Users/JumpStart/workspace.kds/BAT_Grid_Sense/Generated_Code/CI2C1.h:
